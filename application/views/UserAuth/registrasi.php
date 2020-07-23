@@ -64,7 +64,7 @@
             </div>
           </div>
           <div class="simple-footer">
-            Copyright &copy; Sispel <?= date('Y'); ?>
+            Copyright &copy; SILOKER <?= date('Y'); ?>
           </div>
         </div>
       </div>

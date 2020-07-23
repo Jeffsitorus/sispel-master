@@ -3,7 +3,7 @@
     <div class="main-wrapper container">
       <div class="navbar-bg"></div>
       <nav class="navbar navbar-expand-lg main-navbar">
-        <a href="javascript:void(0);" class="navbar-brand sidebar-gone-hide">SISPEL</a>
+        <a href="javascript:void(0);" class="navbar-brand sidebar-gone-hide">SILOKER</a>
         <div class="navbar-nav">
           <a href="#" class="nav-link sidebar-gone-show" data-toggle="sidebar"><i class="fas fa-bars"></i></a>
         </div>

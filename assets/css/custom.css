@@ -5,14 +5,20 @@
  * 
  */
 
-.img-welcome{
-     width: 90%;
-     padding-left: 100px;
-     padding-top: 70px;
- }
+.img-welcome {
+	width: 100%;
+	padding-left: 50px;
+	/* padding-top: 70px; */
+	/* border: 2px solid #000; */
+}
 
- p .profil-data{
-     font-size: 100px;
- }
-
+p .profil-data {
+	font-size: 100px;
+}
+.input-group-text {
+	background-color: transparent !important;
+}
+.input-group-text:hover {
+	cursor: pointer;
+}
 /*# sourceMappingURL=custom.css.map */

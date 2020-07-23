@@ -45,9 +45,9 @@
           <img src="<?= base_url('assets/enno') ?>/img/about.png" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 content">
-          <h3>Apa itu SISPEL ?</h3>
+          <h3>Apa itu SILOKER ?</h3>
           <p class="font-italic">
-            SISPEL adalah sebuah platform web yang menyediakan berbagai macam pelatihan secara gratis, kamu dapat mendaftar pelatihan sekaligus
+            SILOKER adalah sebuah platform web yang menyediakan berbagai macam pelatihan secara gratis, kamu dapat mendaftar pelatihan sekaligus
             mencari lowongan pekerjaan yang disediakan oleh berbagai perusahaan yang berkerja sama dengan kami. Apa saja benefit nya?
           </p>
           <ul>
@@ -57,7 +57,7 @@
             <li><i class="icofont-check-circled"></i> Berkerja sama dengan perusahaan ternama</li>
           </ul>
           <p>
-            Tak cuma diatas saja, untuk info lebih lanjut yuk kepoin web SISPEL
+            Tak cuma diatas saja, untuk info lebih lanjut yuk kepoin web SILOKER
           </p>
         </div>
       </div>
@@ -154,7 +154,7 @@
           <div class="section-title">
             <span>Alumni</span>
             <h2>Alumni</h2>
-            <p>Ini kata mereka tentang SISPEL</p>
+            <p>Ini kata mereka tentang SILOKER</p>
           </div>
 
           <div class="owl-carousel testimonials-carousel">
@@ -173,7 +173,7 @@
             <div class="testimonial-item">
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Berkat SISPEL akhirnya gw bisa hack akun si Fizi kamvret, makasih SISPEL (like)
+                Berkat SILOKER akhirnya gw bisa hack akun si Fizi kamvret, makasih SILOKER (like)
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
               <img src="<?= base_url('assets') ?>/img/testi/upin.jpg" class="testimonial-img" alt="">
@@ -195,7 +195,7 @@
             <div class="testimonial-item">
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Berkat SISPEL saya bisa hack GARENA biar bisa topup FF Unlimited, tengkyu SISPEL
+                Berkat SILOKER saya bisa hack GARENA biar bisa topup FF Unlimited, tengkyu SILOKER
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
               <img src="<?= base_url('assets') ?>/img/testi/ff.jpg" class="testimonial-img" alt="">
@@ -206,7 +206,7 @@
             <div class="testimonial-item">
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                Berkat SISPEL watashi bisa menuju jalan isekai dengan mudah, arigatou gozaimasu SISPEL watashi jadi bisa ketemu waifu isekai (suki)
+                Berkat SILOKER watashi bisa menuju jalan isekai dengan mudah, arigatou gozaimasu SILOKER watashi jadi bisa ketemu waifu isekai (suki)
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
               <img src="<?= base_url('assets') ?>/img/testi/kirito.png" class="testimonial-img" alt="">
@@ -225,7 +225,7 @@
 
           <div class="text-center">
             <h3>Tunggu Apa Lagi?</h3>
-            <p>Jika kalian tertarik untuk ikut Pelatihan di SISPEL, silahkan kalian bisa daftar pada halaman diatas.</p>
+            <p>Jika kalian tertarik untuk ikut Pelatihan di SILOKER, silahkan kalian bisa daftar pada halaman diatas.</p>
             <a class="cta-btn" href="<?= site_url('AuthUser/buatAkun') ?>">Daftar</a>
           </div>
 
@@ -247,9 +247,9 @@
               <div class="member">
                 <img src="<?= base_url('assets/enno') ?>/img/team/team-1.jpg" alt="">
                 <h4>Eki Kun</h4>
-                <span>Founder SISPEL</span>
+                <span>Founder SILOKER</span>
                 <p>
-                  Founder SISPEL, seorang mahasiswa tanpa nama di Universitas Wuhan
+                  Founder SILOKER, seorang mahasiswa tanpa nama di Universitas Wuhan
                 </p>
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
@@ -266,7 +266,7 @@
                 <h4>Efa Chan</h4>
                 <span>Instructur</span>
                 <p>
-                  Instructor di SISPEL
+                  Instructor di SILOKER
                 </p>
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
@@ -283,7 +283,7 @@
                 <h4>Intan Ayu</h4>
                 <span>Instructur</span>
                 <p>
-                  Instructor di SISPEL (saya galak kalau lagi ngajar)
+                  Instructor di SILOKER (saya galak kalau lagi ngajar)
                 </p>
                 <div class="social">
                   <a href=""><i class="icofont-twitter"></i></a>
@@ -372,7 +372,7 @@
                 <div class="email">
                   <i class="icofont-envelope"></i>
                   <h4>Email:</h4>
-                  <p>kami.sispel@gmail.com</p>
+                  <p>kami.SILOKER@gmail.com</p>
                 </div>
 
                 <div class="phone">

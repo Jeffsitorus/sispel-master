@@ -7,8 +7,8 @@
 
       <div class="row  justify-content-center">
         <div class="col-lg-6">
-          <h3>SISPEL</h3>
-          <p>Yuk berlangganan newslater agar kamu tidak ketinggalan informasi seputar pelatihan di sispel.</p>
+          <h3>SILOKER</h3>
+          <p>Yuk berlangganan newslater agar kamu tidak ketinggalan informasi seputar pelatihan di SILOKER.</p>
         </div>
       </div>
 
@@ -33,10 +33,10 @@
 
   <div class="container footer-bottom clearfix">
     <div class="copyright">
-      &copy; Copyright <strong><span>SISPEL</span></strong>. All Rights Reserved
+      &copy; Copyright <strong><span>SILOKER</span></strong>. All Rights Reserved
     </div>
     <div class="credits">
-      Designed by Sispel
+      Designed by SILOKER
     </div>
   </div>
 </footer><!-- End Footer -->

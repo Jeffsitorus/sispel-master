@@ -25,7 +25,7 @@
         </div>
       </div>
       <div class="simple-footer mt-5">
-        Copyright &copy; SISPEL 2020
+        Copyright &copy; SILOKER 2020
       </div>
     </div>
   </section>

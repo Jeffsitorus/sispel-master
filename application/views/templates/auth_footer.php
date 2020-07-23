@@ -49,6 +49,7 @@
    });
    CKEDITOR.replace('editor1');
  </script>
+
  <script>
    $(document).ready(function() {
      $('#show-password').click(function() {
@@ -70,6 +71,7 @@
      });
    });
  </script>
+
  </body>
 
  </html>
